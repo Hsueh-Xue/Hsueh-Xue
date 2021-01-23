@@ -1,4 +1,7 @@
-### Hi there 👋
+![github-stats](https://github-readme-stats.vercel.app/api?username=Hsueh-Xue&show_icons=true&line_height=25&hide_title=true&theme=radical)
+
+![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hsueh-Xue&layout=compact&theme=radical)
+
 
 <!--
 **Hsueh-Xue/Hsueh-Xue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
